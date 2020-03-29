@@ -24,7 +24,7 @@ Hyperparameters:
 
 ## Results 
 
-The agents were able to solve task in 1467 episodes with a final average score of 1.66 after 2000 episodes (chart provided).
+The agents were able to solve task in 1567 episodes with a final average score of 1.66 after 2000 episodes (chart provided).
 
 
 ## Enhancements
