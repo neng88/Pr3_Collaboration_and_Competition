@@ -1,5 +1,6 @@
 # Pr3_Collaboration_and_Competition
 
+
 ## Introduction
 
 This project works with the Tennis environmet (https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md).
@@ -17,6 +18,7 @@ Specifically:
 
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
 
+
 ## Getting Started
 
 1. Download the environment from one of the links below. Select the environment that matches the operating system:
@@ -26,3 +28,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
     
 2. Place the file in the DRLND GitHub repository, in the `pr3_Collaboration_and_Competition/` folder, and unzip (or decompress) the file. 
+
+
+## Instructions
+
+Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
